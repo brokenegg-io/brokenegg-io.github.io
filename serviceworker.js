@@ -1,8 +1,8 @@
 var CACHE_NAME = 'broken-egg-cache-v1';
 var urlsToCache = [
-  '/',
+  '/index.html',
   '/styles/main.css',
-  '/script/main.js'
+  '/scripts/main.js'
 ];
 
 self.addEventListener('install', function(event) {
