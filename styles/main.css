@@ -1,0 +1,23 @@
+*, body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: floralwhite;
+}
+
+#welcomeText, #welcomeParagraph
+{
+    text-align: center;
+}
+
+h1
+{
+    font-size: 5.9rem;
+}
+
+p{
+    font-size: 4rem;
+}
+
+a, u {
+    text-decoration: none;
+    color: royalblue;
+}
