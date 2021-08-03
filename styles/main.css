@@ -1,9 +1,9 @@
 *, body{
     font-family: 'Ubuntu', sans-serif;
-    background-color: floralwhite;
+    //background-color: floralwhite;
 }
 
-#welcomeText, #welcomeParagraph
+/* #welcomeText, #welcomeParagraph
 {
     text-align: center;
 }
@@ -20,4 +20,4 @@ p{
 a, u {
     text-decoration: none;
     color: royalblue;
-}
+} */
