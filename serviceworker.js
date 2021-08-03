@@ -1,4 +1,4 @@
-var CACHE_NAME = 'broken-egg-cache-v1';
+var CACHE_NAME = 'broken-egg-cache-v2';
 var urlsToCache = [
   '/index.html',
   '/styles/main.css',
